@@ -1,0 +1,9 @@
+#include<stdio.h>
+hhh
+kkk
+kk
+hi
+fy
+ddt
+sf
+h
